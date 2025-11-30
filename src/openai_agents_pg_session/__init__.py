@@ -1,2 +1,3 @@
-def main() -> None:
-    print("Hello from openai-agents-pg-session!")
+from .session import PostgresSession
+
+__all__ = ["PostgresSession"]
