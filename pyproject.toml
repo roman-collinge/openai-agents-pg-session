@@ -1,7 +1,7 @@
 [project]
 name = "openai-agents-pg-session"
 version = "0.1.0"
-description = "Add your description here"
+description = "PostgreSQL-Backed Session implementation for the OpenAI Agents SDK"
 readme = "README.md"
 authors = [
     { name = "roman-collinge", email = "romancollinge@outlook.com" }
